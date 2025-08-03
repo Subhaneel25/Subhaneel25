@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @Subhaneel25
-- 👀 I’m interested in ...learning new skills
-- 🌱 I’m currently learning ...B.Tech
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### 👋 Hi there, I’m @Subhaneel25
+
+- 🎓 Final-year B.Tech student in Mechanical Engineering at NIT Agartala
+- 💻 Passionate about C++ (DSA), web development, and full-stack technologies
+- 🌐 Currently exploring the web dev world — working with frontend (HTML, CSS, JavaScript) and backend (Node.js)
+- 🚀 Eager to collaborate on open-source projects and real-world applications that create impact
+- 📫 Reach me at: subhaneelbhowmik02@gmail.com
+
+---
 
 <!---
 Subhaneel25/Subhaneel25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
